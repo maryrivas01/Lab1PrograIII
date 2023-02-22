@@ -1,0 +1,3 @@
+C:\Users\ALUMNO\Desktop\PrograIII\Laboratorio1PrograIII\Laboratorio1PrograIII\obj\Debug\Laboratorio1PrograIII.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Desktop\PrograIII\Laboratorio1PrograIII\Laboratorio1PrograIII\obj\Debug\Laboratorio1PrograIII.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\Desktop\PrograIII\Laboratorio1PrograIII\Laboratorio1PrograIII\obj\Debug\Laboratorio1PrograIII.csproj.CoreCompileInputs.cache
